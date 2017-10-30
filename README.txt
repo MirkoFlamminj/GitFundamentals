@@ -1,5 +1,6 @@
 Hello Git
 Hello, again
 Updating README with new information
-Share remotely is fun and easy
 Update file remotely
+Sharing remotely is fun and easy
+
